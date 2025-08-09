@@ -180,18 +180,6 @@ document.addEventListener("DOMContentLoaded", function () {
   setLanguage("en");
 });
 
-
-// Iniciar Typed en inglés por defecto al cargar la página
-document.addEventListener("DOMContentLoaded", function () {
-  setLanguage("en");
-});
-
-
-// Iniciar Typed en inglés por defecto al cargar la página
-document.addEventListener("DOMContentLoaded", function () {
-  setLanguage("en");
-});
-
 (function() {
   "use strict";
 
